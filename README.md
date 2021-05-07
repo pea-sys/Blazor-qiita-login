@@ -6,3 +6,4 @@ https://qiita.com/Mutz/items/1b0d7a826004dd9272db
 
 * フレームワーク:.Net 5.0
 * DB:PostgreSQL
+* DBコネクション情報はユーザーシークレットで管理
